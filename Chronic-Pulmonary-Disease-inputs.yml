@@ -1,0 +1,249 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/chronic-pulmonary-disease-tracheobronchitis---primary.py
+inputModule3:
+  class: File
+  path: python/chronic-pulmonary-disease-antiasthmatics---primary.py
+inputModule4:
+  class: File
+  path: python/chronic-pulmonary-disease---primary.py
+inputModule5:
+  class: File
+  path: python/chronic-pulmonary-disease-congestion---primary.py
+inputModule6:
+  class: File
+  path: python/chronic-pulmonary-disease-theophylline---primary.py
+inputModule7:
+  class: File
+  path: python/chronic-pulmonary-disease-bronchiectasis---primary.py
+inputModule8:
+  class: File
+  path: python/chronic-pulmonary-disease-specified---primary.py
+inputModule9:
+  class: File
+  path: python/purulent-chronic-pulmonary-disease---primary.py
+inputModule10:
+  class: File
+  path: python/chronic-pulmonary-disease-obstruction---primary.py
+inputModule11:
+  class: File
+  path: python/mixed-chronic-pulmonary-disease---primary.py
+inputModule12:
+  class: File
+  path: python/chronic-pulmonary-disease-emphysema---primary.py
+inputModule13:
+  class: File
+  path: python/bullous-chronic-pulmonary-disease---primary.py
+inputModule14:
+  class: File
+  path: python/chronic-pulmonary-disease-stenosis---primary.py
+inputModule15:
+  class: File
+  path: python/recurrent-chronic-pulmonary-disease---primary.py
+inputModule16:
+  class: File
+  path: python/extrinsic-chronic-pulmonary-disease---primary.py
+inputModule17:
+  class: File
+  path: python/chronic-pulmonary-disease-hypersensitivity---primary.py
+inputModule18:
+  class: File
+  path: python/chronic-pulmonary-disease-bagassosis---primary.py
+inputModule19:
+  class: File
+  path: python/birdfancier-chronic-pulmonary-disease---primary.py
+inputModule20:
+  class: File
+  path: python/chronic-pulmonary-disease-suberosis---primary.py
+inputModule21:
+  class: File
+  path: python/chronic-pulmonary-disease-worker---primary.py
+inputModule22:
+  class: File
+  path: python/chronic-pulmonary-disease-pneumonitis---primary.py
+inputModule23:
+  class: File
+  path: python/chronic-pulmonary-disease-alveolitis---primary.py
+inputModule24:
+  class: File
+  path: python/chronic-pulmonary-disease-sequoiosis---primary.py
+inputModule25:
+  class: File
+  path: python/chronic-pulmonary-disease-condition---primary.py
+inputModule26:
+  class: File
+  path: python/chronic-pulmonary-disease-agent---primary.py
+inputModule27:
+  class: File
+  path: python/chronic-pulmonary-disease-pneumoconiosis---primary.py
+inputModule28:
+  class: File
+  path: python/occupational-chronic-pulmonary-disease---primary.py
+inputModule29:
+  class: File
+  path: python/chronic-pulmonary-disease-asbestosis---primary.py
+inputModule30:
+  class: File
+  path: python/plaque-chronic-pulmonary-disease---primary.py
+inputModule31:
+  class: File
+  path: python/chronic-pulmonary-disease-silica---primary.py
+inputModule32:
+  class: File
+  path: python/chronic-pulmonary-disease-silicosis---primary.py
+inputModule33:
+  class: File
+  path: python/massive-chronic-pulmonary-disease---primary.py
+inputModule34:
+  class: File
+  path: python/inorganic-chronic-pulmonary-disease---primary.py
+inputModule35:
+  class: File
+  path: python/chronic-pulmonary-disease-fibrosing---primary.py
+inputModule36:
+  class: File
+  path: python/chronic-pulmonary-disease-berylliosis---primary.py
+inputModule37:
+  class: File
+  path: python/chronic-pulmonary-disease-siderosis---primary.py
+inputModule38:
+  class: File
+  path: python/chronic-pulmonary-disease-stannosis---primary.py
+inputModule39:
+  class: File
+  path: python/pneumopathy-chronic-pulmonary-disease---primary.py
+inputModule40:
+  class: File
+  path: python/chronic-pulmonary-disease-byssinosis---primary.py
+inputModule41:
+  class: File
+  path: python/chronic-pulmonary-disease-cannabinosis---primary.py
+inputModule42:
+  class: File
+  path: python/chronic-pulmonary-disease-associated---primary.py
+inputModule43:
+  class: File
+  path: python/chemical-chronic-pulmonary-disease---primary.py
+inputModule44:
+  class: File
+  path: python/chronic-pulmonary-disease-bronchiolitis---primary.py
+inputModule45:
+  class: File
+  path: python/chronic-pulmonary-disease-oedema---primary.py
+inputModule46:
+  class: File
+  path: python/chronic-pulmonary-disease-inhalation---primary.py
+inputModule47:
+  class: File
+  path: python/chronic-pulmonary-disease-radiation---primary.py
+inputModule48:
+  class: File
+  path: python/chronic-pulmonary-disease-following---primary.py
+inputModule49:
+  class: File
+  path: python/chronic-pulmonary-disease-druginduced---primary.py
+inputModule50:
+  class: File
+  path: python/chronic-pulmonary-disease-causing---primary.py
+inputModule51:
+  class: File
+  path: python/systemic-chronic-pulmonary-disease---primary.py
+inputModule52:
+  class: File
+  path: python/chronic-pulmonary-disease-empyema---primary.py
+inputModule53:
+  class: File
+  path: python/chronic-pulmonary-disease-fistula---primary.py
+inputModule54:
+  class: File
+  path: python/pleural-chronic-pulmonary-disease---primary.py
+inputModule55:
+  class: File
+  path: python/chronic-pulmonary-disease-pneumothorax---primary.py
+inputModule56:
+  class: File
+  path: python/chronic-pulmonary-disease-pyothorax---primary.py
+inputModule57:
+  class: File
+  path: python/chronic-pulmonary-disease-mediastinum---primary.py
+inputModule58:
+  class: File
+  path: python/chronic-pulmonary-disease-abscess---primary.py
+inputModule59:
+  class: File
+  path: python/chronic-pulmonary-disease-pneumonia---primary.py
+inputModule60:
+  class: File
+  path: python/chronic-pulmonary-disease-hypostasis---primary.py
+inputModule61:
+  class: File
+  path: python/hypostatic-chronic-pulmonary-disease---primary.py
+inputModule62:
+  class: File
+  path: python/parietoalveolar-chronic-pulmonary-disease---primary.py
+inputModule63:
+  class: File
+  path: python/idiopathic-chronic-pulmonary-disease---primary.py
+inputModule64:
+  class: File
+  path: python/cryptogenic-chronic-pulmonary-disease---primary.py
+inputModule65:
+  class: File
+  path: python/interstitial-chronic-pulmonary-disease---primary.py
+inputModule66:
+  class: File
+  path: python/chronic-pulmonary-disease-organising---primary.py
+inputModule67:
+  class: File
+  path: python/chronic-pulmonary-disease-lung---primary.py
+inputModule68:
+  class: File
+  path: python/other-chronic-pulmonary-disease---primary.py
+inputModule69:
+  class: File
+  path: python/chronic-pulmonary-disease-eosinophilia---primary.py
+inputModule70:
+  class: File
+  path: python/chronic-pulmonary-disease-loeffler's---primary.py
+inputModule71:
+  class: File
+  path: python/chronic-pulmonary-disease-broncholithiasis---primary.py
+inputModule72:
+  class: File
+  path: python/chronic-pulmonary-disease-calcification---primary.py
+inputModule73:
+  class: File
+  path: python/chronic-pulmonary-disease-pulmolithiasis---primary.py
+inputModule74:
+  class: File
+  path: python/chronic-pulmonary-disease-failure---primary.py
+inputModule75:
+  class: File
+  path: python/chronic-pulmonary-disease-apnoea---primary.py
+inputModule76:
+  class: File
+  path: python/chronic-pulmonary-disease-complication---primary.py
+inputModule77:
+  class: File
+  path: python/chronic-pulmonary-disease-tracheostomy---primary.py
+inputModule78:
+  class: File
+  path: python/chronic-pulmonary-disease-bronchu---primary.py
+inputModule79:
+  class: File
+  path: python/chronic-pulmonary-disease-trachea---primary.py
+inputModule80:
+  class: File
+  path: python/chronic-pulmonary-disease-ulcer---primary.py
+inputModule81:
+  class: File
+  path: python/chronic-pulmonary-disease-bronchospasm---primary.py
+inputModule82:
+  class: File
+  path: python/subcutaneous-chronic-pulmonary-disease---primary.py
+inputModule83:
+  class: File
+  path: python/output-cases.py
